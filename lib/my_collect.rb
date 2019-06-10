@@ -7,3 +7,9 @@ def my_collect(array)
   end
   new_array 
 end
+
+# can handle an empty collection
+# yields the correct element from a given collection 
+# does no modify the original collection
+# yields the correct element from a given collection 
+# returns a new collection of appropriately modified elements
